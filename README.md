@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center" width="300">
+   <h3 align="center">¡Hey 👋! Soy Julian Henao 👨🏻‍💻</h3>
+</p>
+
+<p align="center">Soy <strong>Desarrollador Full Stack</strong> con más de 6 años experiencia.</p>
 
 <!--
 **Julianhm9612/julianhm9612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
