@@ -16,7 +16,7 @@
 - 👀 I’m looking to collaborate on open source tools and languages
 - 💬 Ask me about Frontend
 - 🔥 Knowledge is to be shared
-- I am very passionate about the games, arts and technology
+- 🎮 I am very passionate about the games, arts and technology
 
 <h4 align="left">
    Connect with me:
